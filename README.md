@@ -1,6 +1,6 @@
 # todo_list
 
-A new Flutter project.
+A flutter project to demonstrate CRUD operations
 
 ## Getting Started
 
