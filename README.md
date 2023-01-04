@@ -1,5 +1,4 @@
 # todo_list
-
 A flutter project to demonstrate CRUD operations
 
 ## Getting Started
